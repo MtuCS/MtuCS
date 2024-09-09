@@ -15,7 +15,7 @@
 ![](https://github-trophies.vercel.app/?username=MtuCS&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="[https://random-memer.herokuapp.com/](https://www.google.com/url?sa=i&url=https%3A%2F%2Fforms.app%2Fen%2Fblog%2Ffunny-developer-memes&psig=AOvVaw21rs0uLCpFRMOA2zSFxzGt&ust=1725982231716000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiOu4KXtogDFQAAAAAdAAAAABAE)" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MtuCS&icon=0&color=0)](https://visitcount.itsvg.in)
